@@ -10,7 +10,7 @@ Este é meu teste de Backend realizado exclusivamente para a TEXOIT.
 * Base de dados SQLite
 
 ## Arquivos de configuração
-* Maven: pom.xl
+* Maven: pom.xml
 * Spring: application.properties
 
 ## Pré-requisitos
